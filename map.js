@@ -2,7 +2,6 @@ var map = new jsVectorMap({
     selector: "#map",
     map: "world",
     markers: [
-        { name: "Meppel, NL", coords: [52.6921, 6.1937], style: { fill: 'blue' } },
         { name: "Roost, LU", coords: [49.7866, 6.0753], style: { fill: 'blue' } },
         { name: "New York, US", coords: [40.7128, -74.0060], style: { fill: 'blue' } },
         { name: "Las Vegas, US", coords: [36.1699, -115.1398], style: { fill: 'blue' } },
